@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "One-click Puppies",
-  "description": "This extension demonstrates a browser action with puppies",
+  "name": "Puggles on Command",
+  "description": "You want puggles? I'll give you puggles.",
   "version": "1.0",
 
   "permissions": [
