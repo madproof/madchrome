@@ -1,15 +1,18 @@
 {
-  "manifest_version": 2,
-
-  "name": "Puggles on Command",
-  "description": "You want puggles? I'll give you puggles.",
+  "name": "Puppies on Command",
+  "description": "You want puppies? I'll give you puppies.",
   "version": "1.0",
-
+  "browser_action": {
+    "default_icon": "puppies_16.png",
+    "default_popup": "popup.html"
+  },
+  "manifest_version": 2,
   "permissions": [
     "https://secure.flickr.com/"
   ],
-  "browser_action": {
-    "default_icon": "icon.png",
-    "default_popup": "popup.html"
+  "icons": {
+    "16": "puppies_16.png",
+    "128": "puppies_128.png",
+    "256": "puppies_256.png"
   }
 }
