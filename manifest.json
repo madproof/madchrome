@@ -1,13 +1,8 @@
 {
   "manifest_version": 2,
 
-<<<<<<< HEAD
-  "name": "One-click Cows",
-  "description": "This extension demonstrates a browser action with puppies",
-=======
   "name": "One-click Moose",
   "description": "This extension demonstrates a browser action with moose",
->>>>>>> catdog
   "version": "1.0",
 
   "permissions": [
